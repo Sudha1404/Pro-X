@@ -8,13 +8,20 @@ public class RestAPITest
 	public void postJira()
 	{
 		System.out.println("postJira");
+<<<<<<< HEAD
 		//MADE CHANGES
+=======
+>>>>>>> cf40f645690d203897eb2bc2d89efbd6dbb777b3
 		System.out.println("postJira2");
 		System.out.println("postJira3");
 		System.out.println("postJira4");
 		System.out.println("postJira5");
-		System.out.println("postJira6");
-		System.out.println("postJira7");
+<<<<<<< HEAD
+		System.out.println("POSTJIRA6");
+		System.out.println("POSTJIRA7");
+=======
+
+>>>>>>> cf40f645690d203897eb2bc2d89efbd6dbb777b3
 	}
 	@Test
 	public void deleteTwitter()
